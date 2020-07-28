@@ -1,5 +1,5 @@
 # Project moved
-PasteIntoFile moved to GitLab: ![GitLab](https://gitlab.com/fsorge/PasteIntoFile)
+PasteIntoFile moved to GitLab: [GitLab](https://gitlab.com/fsorge/PasteIntoFile)
 
 Paste Into File
 ===========
